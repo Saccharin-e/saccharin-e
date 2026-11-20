@@ -73,9 +73,7 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[Cords Box](https://github.com/Saccharin-e/cords-box)** | `Rust` `WASM` `React 19` `AudioWorklet` `Konva.js` | Advanced web-based guitar crafting sandbox, physical modeling engine (digital waveguide), and live circuit solver (WDF). |
-| **[Mini Search Engine](https://github.com/Saccharin-e/mini-search-engine)** | `Haskell` | Inverted-index text search engine and ranking pipeline written from scratch in Haskell. |
 | **Vernal Mail** *(Case Study)* | `TypeScript` `Cloudflare` `AWS SESv2` | High-deliverability outbound email gateway with automated Cloudflare DNS verification and client SDK. |
-| **[Kaggle DRP](https://github.com/Saccharin-e/kaggle-drp)** | `Python` `Jupyter` | Data science exploratory analysis and machine learning research workflows. |
 
 ---
 

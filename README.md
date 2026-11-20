@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Haviz Albar 👋</h1>
   <p><strong>Software Engineer & Systems Tinkerer</strong> based in Jakarta, Indonesia</p>
-  <p>Passionate about high-performance web systems, audio DSP & physical modeling, and resilient full-stack architecture.</p>
+  <p>Passionate about high-performance web systems, applied AI engineering, audio DSP, and resilient full-stack architecture.</p>
 
   <p>
     <a href="mailto:havizfa@gmail.com"><img src="https://img.shields.io/badge/Email-havizfa%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,6 +15,7 @@
 ### 🚀 About Me
 
 - 🛠️ **Engineering Focus**: Building performant, reliable applications across the stack — from real-time WebAssembly DSP audio engines to scalable full-stack web platforms.
+- 🤖 **Applied AI**: Engineering intelligent applications with LLM tool-calling, structured schema generation (Zod), and agentic workflows.
 - 💡 **Currently Exploring**: Digital waveguide physical modeling, Wave Digital Filter (WDF) circuit solvers, and cloud-native email routing architectures.
 - 🎓 **Background**: Computer Science principles, data structures & algorithms, and systems programming.
 - 💬 **Ask me about**: TypeScript, Rust, Next.js, Haskell, Web Audio API, or reactive state management.
@@ -53,6 +54,14 @@
   <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
+
+#### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Zod_Structured_Outputs-3068B7?style=flat-square&logo=zod&logoColor=white" alt="Zod Structured Outputs" />
+  <img src="https://img.shields.io/badge/Python_ML-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python ML" />
 </p>
 
 #### Tools, Testing & Quality
